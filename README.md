@@ -20,5 +20,11 @@ HTML, CSS, JavaScript, REST API, AWS
 - Event handling
 - AWS deployment basics
 
-## 👨‍💻 Author
-Sidharth A | Open to opportunities
+
+## 👤 Author
+
+Sidharth A  
+- GitHub: https://github.com/SidharthA7204  
+- LinkedIn: https://www.linkedin.com/in/sidhartha742003/
+
+Open to opportunities
